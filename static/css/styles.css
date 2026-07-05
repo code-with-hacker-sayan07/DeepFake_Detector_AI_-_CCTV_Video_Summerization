@@ -1,0 +1,25 @@
+/* Custom CSS to complement Tailwind */
+body {
+    background-color: #f8fafc;
+}
+
+#upload-zone.dragover {
+    background-color: #eff6ff;
+    border-color: #3b82f6;
+}
+
+.fake-result {
+    border-color: #fecaca;
+    background-color: #fef2f2;
+}
+.fake-result h2 {
+    color: #dc2626;
+}
+
+.real-result {
+    border-color: #bbf7d0;
+    background-color: #f0fdf4;
+}
+.real-result h2 {
+    color: #16a34a;
+}
